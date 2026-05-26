@@ -69,4 +69,4 @@ Likely compatible with all AirPods Pro, AirPods 4 ANC, AirPods Max, and select B
 AirPods use **Apple Accessory Protocol (AAP)** over L2CAP PSM 0x1001. The app opens a raw Bluetooth socket, performs a handshake, and parses status packets directly — no GATT or RFCOMM involved.
 Audio uses the system's A2DP profile; AirPux only reads status data.
 ## License
-MIT
+promised to me 3000 years ago
