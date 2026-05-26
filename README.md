@@ -12,7 +12,7 @@ I lowkey vibe coded it, along with using ai for this readme, but if it works don
 | dasbus | `pip install dasbus` |
 ### Quick install
 ```bash
-git clone https://github.com/YOUR_USER/airpux.git
+git clone https://github.com/IdrinkWater223/airpux.git
 cd airpux
 chmod +x install.sh
 ./install.sh
