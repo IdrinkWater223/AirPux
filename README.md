@@ -1,7 +1,7 @@
 # AirPux
 Native AirPods manager for Linux — battery levels, ear detection, and ANC in your system tray.
 
-I lowkey vibe coded it, along with using ai for this readme, but if it works dont fix it
+I lowkey vibe coded it, along with using ai for this readme, but if it works dont fix it, am I right?
 ## Installation
 ### Dependencies
 | Package | Install command |
